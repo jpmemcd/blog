@@ -38,7 +38,7 @@ skip_render:
 ## Docs: https://hexo.io/doc  s/deployment.html
 deploy:
   type: git
-  repo: git@github.com:jpazureid/blog.git
+  repo: git@github.com:jpmemcd/blog.git
   branch: gh-pages
   message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }} [skip ci]"
 
