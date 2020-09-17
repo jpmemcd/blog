@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Japan Microsoft Endpoint Configuration Manager Support Blog</title>
+  
+  <subtitle>日本マイクロソフトの Microsoft Endpoint Configuration Manager に関するサポート情報のブログです。</subtitle>
+  <link href="/blog/atom.xml" rel="self"/>
+  
+  <link href="https://jpmemcd.github.io/blog/"/>
+  <updated>2020-09-17T11:48:42.017Z</updated>
+  <id>https://jpmemcd.github.io/blog/</id>
+  
+  <author>
+    <name>Microsoft Endpoint Configuration Manager Support Japan</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>タイトル</title>
+    <link href="https://jpmemcd.github.io/blog/test/test/"/>
+    <id>https://jpmemcd.github.io/blog/test/test/</id>
+    <published>2020-09-17T11:48:55.149Z</published>
+    <updated>2020-09-17T11:48:42.017Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+      <category term="Azure AD //タグ" scheme="https://jpmemcd.github.io/blog/tags/Azure-AD-%E3%82%BF%E3%82%B0/"/>
+    
+      <category term="Token" scheme="https://jpmemcd.github.io/blog/tags/Token/"/>
+    
+      <category term="OAuth" scheme="https://jpmemcd.github.io/blog/tags/OAuth/"/>
+    
+  </entry>
+  
+</feed>
